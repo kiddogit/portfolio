@@ -220,7 +220,7 @@ body{
   color: #0ef;
 }
 .container{
-  padding: 90px;
+  padding: 70px;
 }
 .services-list{
   display: grid;
@@ -288,6 +288,7 @@ section{
   height: 500px;
   padding: 75px 90px;
   margin-left: 120px;
+  margin-bottom: 8rem;
 }
 .heading1{
   text-align: center;
